@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249854393035",
+    "project_id": "voca-grow-flutter-34051",
+    "storage_bucket": "voca-grow-flutter-34051.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249854393035:android:9a9b8826902c5609b7b94e",
+        "android_client_info": {
+          "package_name": "com.example.voca_grow_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDomI9a9jdr5_qfcmKs7Ts1ShfE-648bY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
